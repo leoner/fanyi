@@ -12,7 +12,7 @@ A translate tool in your command line.
 ## Install
 
 ```bash
-$ npm install fanyi -g
+$ npm install fy -g
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ and only support Chinese and English translation.
 Translate one word.
 
 ```bash
-$ fanyi love
+$ fy love
 ```
 
 ```
@@ -61,17 +61,17 @@ $ fanyi love
 More words.
 
 ```bash
-$ fanyi make love
+$ fy make love
 ```
 
 Support Chinese, even sentence.
 
 ```bash
-$ fanyi 和谐
+$ fy 和谐
 ```
 
 ```bash
-$ fanyi 子非鱼焉知鱼之乐
+$ fy 子非鱼焉知鱼之乐
 ```
 
 ## LICENSE
